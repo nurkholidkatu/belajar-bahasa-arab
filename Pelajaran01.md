@@ -205,3 +205,8 @@ Artinya: kata yang menunjukkan makna dan **terikat waktu**.
 جَاءَ مُحَمَّدٌ = Muhammad telah datang.
 
 ---
+
+## 📌 Penutup Pelajaran 1
+Pelajaran pertama ini memberikan gambaran awal tentang **Ilmu Nahwu** dan **Ilmu Sharaf** sebagai fondasi dalam mempelajari bahasa Arab. Dengan memahami perubahan harakat, bentuk kata, serta struktur bahasa, kita memiliki bekal penting untuk melangkah ke materi berikutnya yang lebih mendalam.
+
+📖 **Pelajaran berikutnya:** [Pelajaran 2 | ](Pelajaran2.md)
