@@ -3,8 +3,8 @@
 ---
 
 ## 📝 Definisi Isim
-> **الِاسْمُ هُوَ كَلِمَةٌ دَلَّتْ عَلَى مَعْنًى فِي نَفْسِهَا وَلَمْ تَقْتَرِنْ بِزَمَنٍ**
-> Isim (الاسم) adalah kata dalam bahasa Arab yang menunjukkan makna pada dirinya sendiri dan **tidak terikat dengan waktu**.
+<p align="right">الِاسْمُ هُوَ كَلِمَةٌ دَلَّتْ عَلَى مَعْنًى فِي نَفْسِهَا وَلَمْ تَقْتَرِنْ بِزَمَنٍ</p>
+Isim (الاسم) adalah kata dalam bahasa Arab yang menunjukkan makna pada dirinya sendiri dan tidak terikat dengan waktu.  
 
 **Penjelasan istilah:**
 - **Makna pada dirinya sendiri** → artinya makna kata itu bisa dipahami tanpa harus dihubungkan dengan kata lain.  
