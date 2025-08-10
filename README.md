@@ -9,6 +9,7 @@ Materi ini disusun secara bertahap mulai dari dasar hingga tingkat lanjut.
 ## 📖 Daftar Pelajaran
 
 1. [Pelajaran 1 | Pengantar Ilmu Nahwu dan Ilmu Sharaf](Pelajaran1.md)
+2. [Pelajaran 2 | Isim dan Tandanya](Pelajaran2.md)
 
 ---
 
