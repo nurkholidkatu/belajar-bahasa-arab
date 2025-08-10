@@ -94,4 +94,5 @@ Dengan memahami tanda-tanda isim, kita akan lebih mudah membedakannya dari *fi�
 | Huruf Jar   | Membuat isim berkasrah | Hanya masuk pada isim |
 
 ---
-📖 *Belajar tanda isim adalah langkah awal memahami struktur kalimat bahasa Arab secara tepat.*
+*Belajar tanda isim adalah langkah awal memahami struktur kalimat bahasa Arab secara tepat.*
+📖 **Pelajaran berikutnya:** [Pelajaran 3 | ](Pelajaran3.md)
