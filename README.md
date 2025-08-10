@@ -1,4 +1,3 @@
-# Belajar Bahasa Arab
 # 📚 Belajar Bahasa Arab
 
 Selamat datang di repositori **Belajar Bahasa Arab**.  
